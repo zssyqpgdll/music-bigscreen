@@ -1,0 +1,8 @@
+前置条件
+下载dataV   npm install @jiaminghi/data-view
+下载echarts
+下载vue-awesome
+
+第一步：创建等比例缩放函数 drawMixin.js(直接复制代码)（src\utils\drawMixin.js）
+第二步：创建用来给日期时间转换格式用的函数index.js（src\utils\index.js）
+第三步：大屏可视化代码
